@@ -1,2 +1,2 @@
 # rockety
-a rocket simulation using c++ glut
+a fun rocket simulation using c++ glut
